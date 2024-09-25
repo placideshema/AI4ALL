@@ -8,6 +8,7 @@ Project Name: Sign Language Detector
 Research Question: How do differences in regional dialects of American Sign Language (ASL) affect the accuracy of sign language recognition systems, 
 and how can models be improved to account for these variations?
 
-Project Description: 
+Project Description: Our Solution for ASL Detector would be able to consider different variables and we can feed our datasets to test how the age, and sign
+accents count for the reliabilities of our system. 
 
 
