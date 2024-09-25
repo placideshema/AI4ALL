@@ -13,6 +13,6 @@ accents count for the reliabilities of our system. By using machine learning mod
 
 
 
-Note, Future Development: We hope to create a system where the client or the use can create language the he wants to use for the sign language detector. 
+Note, Future Development: We hope to create a system where the client or the user can create a language that he wants to use for the sign language detector. 
   This is the fact that deaf people usually develop their communications earlier before they go to class, which may affect them in the adaptations to learning the 
   usually American Sign Language. There, the user needs to feed our dataset for the comfortable signs that may interact with the usual sign language. 
